@@ -1,5 +1,12 @@
 # CSAtool
-This is the repository for **CSAtool**, a MATLAB platform that helps you designing switched-capacitor DACs for SAR ADCs. 
+CSAtool is a MATLAB tool created to help you designing a switched-capacitor DAC for an integrated SAR ADC.
+
+This tool includes:
+* Different SAR analog-to-digial conversion schemes.
+* Free choice of the unit capacitor value for the DAC.
+* Definition of parasitic capacitaces and capacitive mismatch.
+* Estimation of the linearity performance of the ADC.
+* Power consumption of the DAC.
 
 ## Authors
 * [Stefano Brenna](mailto:stefano.brenna@polimi.it), Politecnico di Milano (PoliMi).
