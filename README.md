@@ -2,8 +2,8 @@
 This is the repository for **CSAtool**, a MATLAB platform that helps you designing switched-capacitor DACs for SAR ADCs. 
 
 ## Authors
-* [Stefano Brenna](stefano.brenna@polimi.it), Politecnico di Milano (PoliMi).
-* [Andrea Bonetti](andrea.bonetti@epfl.ch), École Polytechnique Fédérale de Lausanne (EPFL).
+* [Stefano Brenna](mailto:stefano.brenna@polimi.it), Politecnico di Milano (PoliMi).
+* [Andrea Bonetti](mailto:andrea.bonetti@epfl.ch), École Polytechnique Fédérale de Lausanne (EPFL).
 
 ## Contacts
 * Web: https://csatool.wordpress.com/
