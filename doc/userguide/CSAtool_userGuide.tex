@@ -1,0 +1,62 @@
+\documentclass[a4paper,11pt]{paper}
+
+% my packages
+\usepackage[english]{babel}
+\usepackage{graphicx}
+\usepackage{verbatim}
+\usepackage{appendix}
+\usepackage{inputenc}
+\usepackage{geometry}
+%\usepackage{fullpage} % This is used to reduce the margins in the layout.
+\usepackage{inputenc} % Package found in marco's
+%\usepackage{rotating}
+%\usepackage[small,anne]{caption}
+\usepackage{caption}
+\usepackage{amsmath}
+\usepackage{makeidx}
+\usepackage{listings} % code snippet :-)
+\usepackage[pdftex]{hyperref}
+\usepackage{url}
+\usepackage{color} % To write in different colors
+
+
+% General configuration
+%\headheight 15pt
+%\linespread{1.5}
+%\bibliographystyle{unsrt}
+
+% Hyperref configuration
+%\renewcommand{\sectionautorefname}{Section}
+
+\begin{document}
+
+\pagestyle{plain} % to remove the header
+
+% Cover
+\thispagestyle{empty} % this removes the page number in the cover
+\input{inputs/cover.tex}
+
+% Contents
+\clearpage
+\tableofcontents
+
+% Body
+\clearpage
+\pagenumbering{arabic}
+\input{inputs/intro.tex}
+\input{inputs/howtorun.tex}
+\input{inputs/overview.tex}
+\input{inputs/addtools.tex}
+\input{inputs/topologies.tex}
+\input{inputs/contacts.tex}
+\input{inputs/authors.tex}
+
+\clearpage
+\input{inputs/acknowledgments.tex}
+
+\end{document}
+
+
+
+
+
