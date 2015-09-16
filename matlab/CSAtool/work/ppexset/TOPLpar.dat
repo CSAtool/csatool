@@ -1,0 +1,11 @@
+Capacitors for net /TOP_LSB
+            Net Name      Sum C 
+                /VSS     126.5f 
+               /B(6)     64.74f 
+               /B(5)     32.15f 
+               /B(4)      16.5f 
+               /B(3)     8.393f 
+               /B(2)     4.014f 
+               /B(1)      1.99f 
+               /B(0)     990.7a 
+                /TOP       690a 
