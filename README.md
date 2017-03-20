@@ -2,8 +2,8 @@
 CSAtool is a MATLAB tool created to help you designing a switched-capacitor DAC for an integrated SAR ADC.
 
 ### Authors
-* [Stefano Brenna](mailto:stefano.brenna@polimi.it), Politecnico di Milano (PoliMi).
-* [Andrea Bonetti](mailto:andrea.bonetti@epfl.ch), École Polytechnique Fédérale de Lausanne (EPFL).
+* [Stefano Brenna](mailto:stefano.brenna@polimi.it) - Intel Labs, U.S.A.
+* [Andrea Bonetti](mailto:andrea.bonetti@epfl.ch) - EPFL, Switzerland.
 
 ### Contacts
 * Web: https://csatool.wordpress.com/
